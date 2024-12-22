@@ -2,9 +2,11 @@
 # Assignment 2: Play with a 2x2 Rubik Cube
 by 
 
-**NAME**:
+**NAME**: MUHAMAD HAZRIN FAHMI BIN ABD HALIM
 
-**Matric ID**
+**Matric ID**: 2213375
+
+This application simulates a 2x2 Rubik's Cube, allowing users to interact with and manipulate its state through rotations and a reset function.
 
 ## Objective
 
